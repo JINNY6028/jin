@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm 진승우 Shyngwoo Jin</h1>
-<h3 align="center">A passionate frontend developer from korea</h3>
+<h3 align="center">안녕하세요 저는 it 분야 취업하기 위해 도전하고 있습니다</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jinny6028&label=Profile%20views&color=0e75b6&style=flat" alt="jinny6028" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 📫 How to reach me **shyngwoo@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
